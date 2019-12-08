@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="snow">#fffafa</color>
+    <color name="lavenderblush">#fff0f5</color>
+    <color name="gold">#ffd700</color>
+    <color name="goldenrod">#daa520</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="lightskyblue">#87cefa</color>
+    <color name="GhostWhite">#F8F8FF</color> <!--幽灵的白色	248,248,255-->
+    <color name="Gray">#808080</color>
+</resources>
